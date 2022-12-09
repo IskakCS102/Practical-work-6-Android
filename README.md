@@ -1,13 +1,13 @@
-![Screenshot_1](https://user-images.githubusercontent.com/90903338/202398079-3cad87d6-482f-4efb-a4dd-5cfe8a1c0dcd.png) <br> 
-<b> Поиск по имени пылесосов. </b> <br> <br>
-![Screenshot_5](https://user-images.githubusercontent.com/90903338/202398191-72735eff-f6ac-4b48-b6e7-9de2837ab3bf.png) <br>
+![ScreenshotName](https://user-images.githubusercontent.com/90903338/206717548-85ae3308-ddb1-43a8-b378-d704912f3733.png) <br>
+Поиск по имени пылесосов. </b> <br> <br>
+![Screenshotprice](https://user-images.githubusercontent.com/90903338/206717582-d95e0a88-7012-4299-9f41-2024c033e246.png) <br>
 Поиск по цене пылесосов. </b> <br> <br>
-![Screenshot_2](https://user-images.githubusercontent.com/90903338/202398288-e59aa029-8f4a-41b9-8733-0634021299f6.png) <br>
+![ScreenshotTYPE](https://user-images.githubusercontent.com/90903338/206717606-e9e65ea6-3461-4a70-88a9-e49899a0e97e.png) <br>
 Поиск по типу пылесосов. </b> <br> <br>
-![Screenshot_3](https://user-images.githubusercontent.com/90903338/202398624-43e167a6-e63e-4578-ac0b-30bec4812297.png) <br>
+![Screenshotpower](https://user-images.githubusercontent.com/90903338/206717634-a377734d-2179-463f-a4b7-e0983fd6c172.png) <br>
 Поиск по мощности всасывания пылесоса. </b> <br> <br>
-![Screenshot_4](https://user-images.githubusercontent.com/90903338/202399121-6715fccd-99ee-46f5-9b13-6f738df1fac5.png) <br>
+![Screenshotweight](https://user-images.githubusercontent.com/90903338/206717678-5cde053d-44d0-4eec-872c-4a407cae7947.png) <br>
 Поиск по весу пылесоса. </b> <br> <br>
-![Screenshot_6](https://user-images.githubusercontent.com/90903338/202399964-5a0003fd-5ae8-406f-ad34-5da86e3a9758.png) <br>
-Поиск по стране производителя пылесоса. 
+![ScreenshotCOUNTRY](https://user-images.githubusercontent.com/90903338/206717707-b30bc05b-9ed0-43da-9b59-9b658bbb62af.png) <br>
+Поиск по стране производителя пылесоса. </b>
 
